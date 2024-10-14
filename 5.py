@@ -1,5 +1,5 @@
 #casting
-#if you want to specify dthe data type of variable '
+#if you want to specify the data type of variable '
 # this can be done with casting
 x = str(3)
 y = int(3.5)
