@@ -8,7 +8,7 @@
 #(A-Z,0-9,and -)
 #variable names are case sensitive
 #(age ,Age ,AGE, are three diff. variables )
-# A variable name cannpt be ant python keywords
+# A variable name cannot be any python keywords
 #Legal variable names
 
 myvar = "jhon"
