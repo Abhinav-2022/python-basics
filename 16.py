@@ -10,7 +10,7 @@ v = "john"
 
 print(x,y,z)
 
-print(x +" "+y+" "+z)
+print(x +" "+ y + " "+z)
 
 print(a + b)
 print(u, v)
