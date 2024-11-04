@@ -16,5 +16,5 @@ print(newlist)
 fruits1 = ["apple" , "banana", "cherry","kiwi", "mango"]
 
 newlist1= [x for x in fruits if "a" in x]
-
+ 
 print(newlist1)
