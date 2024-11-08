@@ -1,4 +1,4 @@
-#upper using list comprenhesion
+ #upper using list comprenhesion
 
 #set the values in the new list to upper case
 
