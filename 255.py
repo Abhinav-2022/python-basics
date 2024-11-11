@@ -7,3 +7,6 @@ print(cars)
 
 #remove () method only remove the first occurrence
 #of the specified value
+
+
+
