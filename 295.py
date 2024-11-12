@@ -3,6 +3,15 @@ import datetime
 x = datetime.datetime.now()
 print(x.year)
 print(x.strftime("%A"))
+print(x.strftime("%Y"))
+print(x.strftime("%H"))
+print(x.strftime("%I"))
+print(x.strftime("%S"))
+print(x.strftime("%G"))
+print(x.strftime("%U"))
+
+
+
 # %a	Weekday, short version	Wed
 # %A	Weekday, full version	Wednesday
 #  %w	Weekday as a number 0-6, 0 is Sunday	3
